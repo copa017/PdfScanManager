@@ -1,0 +1,2 @@
+# PdfScanManager
+PdfScanManager for discussions
